@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<title>Thiago</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+<body class="text-grey">
+
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+          <img src="https://media.licdn.com/dms/image/C5603AQGA9YI0DSAHKA/profile-displayphoto-shrink_200_200/0?e=1538006400&v=beta&t=jDCgibfnK1fq34tJt6ipF0zGcXZxafa0HkYcWNPWIA4" style="width:70%" alt="Avatar">
+          <div class="w3-display-bottomleft w3-container w3-text-black">
+            <h2>Thiago Xavier</h2>
+          </div>
+        </div>
+        <div class="w3-container">
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Treasury Analyst</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Denver, CO</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>thiagocaetanoo2@hotmail.com</p>
+          <hr>
+
+          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+          <p>Excel with VBA</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+          </div>
+          <p>SQL</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:60%">
+              <div class="w3-center w3-text-white">80%</div>
+            </div>
+          </div>
+          <p>Python</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">60%</div>
+          </div>
+          <p>Tableau</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
+          </div>
+          <br>
+
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
+          <p>Portuguese</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
+          </div>
+          <p>English</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
+          </div>
+          <p>Spanish</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:60%"></div>
+          </div>
+          <br>
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+    
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Senior Account Associate / Vistex.com</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Aug 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          </ul>
+            <li>Manage the payment software and incentive programs for the following clients: Adobe, Dell, HP and Cisco.</li>
+            <li>Generate reports regarding the volume and funding of payments for the clients.</li>
+            <li>Automate processes and reports in the payment, claim and accounting departments in order to increase productivity and mitigate errors through VBA.</li>
+            <li>Reconcile bank statements and invoices to client accounts.</li>
+            <li>Liaise between the partners in South America and Vistex Inc. regarding payments.</li>
+            <li>Train departments within the company on excel to increase productivity.</li>
+            <li>Created a dash board in excel through VBA to help manage the SLAs and expedite the decision making process.</li>
+         <ul>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Treasury Analyst/ BancoPan.com</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2013 - Jul 2015</h6>
+        </ul>
+        <li>Controlled and forecasted the cash flow of the bank.</li>
+        <li>Lent and borrowed over 700 million dollars in funds from other banks through overnight transactions.</li>
+        <li>Managed $7 billion in liabilities.</li>
+        <li>Produced daily reports for the President and Vice-President of the bank regarding funding costs.</li>
+        <li>Assisted the sales department by negotiating fixed income investments with clients and closing deals.</li>
+        <li>Calculated the future value of an investment for clients.</li>
+        <li>Presented the results of the sales department to the managers in excel by dividing the data by officer, region, investment product and volume.</li>
+     <ul>
+
+          <hr>
+
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Regis University - Denver, CO</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Oct 2016 - Jul 2019</h6>
+          <p>MBA in Accounting and Finance</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b> University of Denver- Denver, CO</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2018 - Oct 2018</h6>
+          <p>Data Analytics Boot Camp - Certificate</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Embry Riddle Aeronautical University - Prescott, AZ</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2009 - 2012</h6>
+          <p>Bachelor Degree in Aviation Business Administration</p><br>
+        </div>
+      </div>
+
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+  <p>Find me on social media and find out more about the projects that I worked on during my Bootcamp:</p>
+  <a class="fa fa-github w3-hover-opacity" href="https://github.com/xavierthi" role="button"></a>
+  <a class="fa fa-linkedin w3-hover-opacity" href="https://www.linkedin.com/in/thiago-xavier-64b81067" role="button"></a>
+  
+<p>Created by Thiago Xavier <a href="https://www.linkedin.com/feed/" ></a></p>
+</div>
+</footer>
+
+</body>
+</html>
